@@ -1,0 +1,11 @@
+url,label
+https://www.google.com,benign
+https://www.github.com,benign
+https://www.wikipedia.org,benign
+http://secure-login-update.com/malware,malicious
+http://free-gift-card.xyz/login,malicious
+http://bank-verification-alert.net,malicious
+https://www.amazon.in,benign
+http://paypal-secure-check.com,malicious
+https://www.stackoverflow.com,benign
+http://account-update-required.info,malicious
